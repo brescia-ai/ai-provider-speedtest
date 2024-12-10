@@ -1,0 +1,5 @@
+{
+    "deepinfra": "deepinfra-key",
+    "aws": "aws-key",
+    "fireworks": "fireworks-key"
+}
